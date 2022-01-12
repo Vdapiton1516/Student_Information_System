@@ -45,7 +45,7 @@ msgpack==0.6.2
 parso==0.5.2
 pickleshare==0.7.5
 Pillow==6.2.0
-pipenv==2018.11.26
+pipenv==2022.1.8
 poyo==0.5.0
 prompt-toolkit==3.0.2
 psycopg2==2.8.3
